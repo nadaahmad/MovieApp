@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_detail">Details</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_appearance_label">Sort as ...</string>
+    <string name="pref_appearance_key" translatable="false">popular</string>
+    <string name="pref_appearance_default" translatable="false">popular</string>
+</resources>
